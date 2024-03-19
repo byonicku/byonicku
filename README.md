@@ -13,3 +13,5 @@
 <h3 align="left">Leet Code:</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/byonicku?theme=light&font=ABeeZee)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byonicku)](https://github.com/anuraghazra/github-readme-stats)
